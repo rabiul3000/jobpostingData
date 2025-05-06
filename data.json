@@ -1,0 +1,176 @@
+[
+	{
+		"id": "1",
+		"name": "TechNova",
+		"logo": "https://example.com/logos/technova.png",
+		"location": "San Francisco, CA",
+		"website": "https://technova.io",
+		"industry": "Software Development",
+		"jobs": [
+			{
+				"id": "job-001",
+				"title": "Frontend Developer",
+				"bannerImage": "https://example.com/banners/frontend.jpg",
+				"location": "Remote",
+				"salary": "$70,000 - $90,000",
+				"jobType": "Full-time",
+				"description": "Develop responsive web interfaces.",
+				"requirements": [
+					"Proficient in HTML, CSS, and JavaScript",
+					"Experience with React or Vue.js",
+					"Familiarity with RESTful APIs",
+					"Good understanding of responsive design",
+					"Excellent problem-solving skills"
+				]
+			},
+			{
+				"id": "job-002",
+				"title": "Backend Engineer",
+				"bannerImage": "https://example.com/banners/backend.jpg",
+				"location": "San Francisco, CA",
+				"salary": "$90,000 - $120,000",
+				"jobType": "Full-time",
+				"description": "Build and maintain backend systems.",
+				"requirements": [
+					"Strong knowledge of Node.js",
+					"Experience with MongoDB or PostgreSQL",
+					"Understanding of microservices",
+					"Familiarity with Docker and CI/CD",
+					"Good communication skills"
+				]
+			},
+			{
+				"id": "job-003",
+				"title": "QA Tester",
+				"bannerImage": "https://example.com/banners/qa.jpg",
+				"location": "Remote",
+				"salary": "$60,000 - $80,000",
+				"jobType": "Contract",
+				"description": "Test applications and report issues.",
+				"requirements": [
+					"Experience in manual and automated testing",
+					"Knowledge of Selenium or Cypress",
+					"Understanding of agile methodologies",
+					"Detail-oriented mindset",
+					"Strong analytical skills"
+				]
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "HealthSync",
+		"logo": "https://example.com/logos/healthsync.png",
+		"location": "Austin, TX",
+		"website": "https://healthsync.com",
+		"industry": "Healthcare Tech",
+		"jobs": [
+			{
+				"id": "job-004",
+				"title": "Mobile App Developer",
+				"bannerImage": "https://example.com/banners/mobile.jpg",
+				"location": "Austin, TX",
+				"salary": "$80,000 - $100,000",
+				"jobType": "Full-time",
+				"description": "Develop health-tracking mobile apps.",
+				"requirements": [
+					"Proficient in Flutter or React Native",
+					"Experience with REST and GraphQL APIs",
+					"Knowledge of mobile UI/UX best practices",
+					"Familiar with health data standards",
+					"Team-oriented mindset"
+				]
+			},
+			{
+				"id": "job-005",
+				"title": "Data Analyst",
+				"bannerImage": "https://example.com/banners/data.jpg",
+				"location": "Remote",
+				"salary": "$65,000 - $85,000",
+				"jobType": "Full-time",
+				"description": "Analyze patient and system data.",
+				"requirements": [
+					"Strong Excel and SQL skills",
+					"Experience with Python or R",
+					"Ability to present data insights",
+					"Knowledge of healthcare compliance",
+					"Strong organizational skills"
+				]
+			},
+			{
+				"id": "job-006",
+				"title": "DevOps Engineer",
+				"bannerImage": "https://example.com/banners/devops.jpg",
+				"location": "Austin, TX",
+				"salary": "$95,000 - $130,000",
+				"jobType": "Full-time",
+				"description": "Manage cloud infrastructure and CI/CD.",
+				"requirements": [
+					"Experience with AWS and Azure",
+					"Strong scripting skills (Bash, Python)",
+					"Understanding of Kubernetes and Docker",
+					"Knowledge of monitoring tools",
+					"Proactive problem-solving"
+				]
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "EduSpark",
+		"logo": "https://example.com/logos/eduspark.png",
+		"location": "New York, NY",
+		"website": "https://eduspark.org",
+		"industry": "E-learning",
+		"jobs": [
+			{
+				"id": "job-007",
+				"title": "Instructional Designer",
+				"bannerImage": "https://example.com/banners/instructional.jpg",
+				"location": "New York, NY",
+				"salary": "$60,000 - $75,000",
+				"jobType": "Full-time",
+				"description": "Create online course content.",
+				"requirements": [
+					"Experience with LMS platforms",
+					"Knowledge of pedagogy and curriculum design",
+					"Strong writing and editing skills",
+					"Ability to use tools like Articulate",
+					"Creative mindset"
+				]
+			},
+			{
+				"id": "job-008",
+				"title": "Full Stack Developer",
+				"bannerImage": "https://example.com/banners/fullstack.jpg",
+				"location": "Remote",
+				"salary": "$85,000 - $105,000",
+				"jobType": "Full-time",
+				"description": "Maintain and develop platform features.",
+				"requirements": [
+					"Strong knowledge of MERN stack",
+					"REST API and GraphQL experience",
+					"Cloud deployment experience",
+					"Version control with Git",
+					"Team collaboration experience"
+				]
+			},
+			{
+				"id": "job-009",
+				"title": "UI/UX Designer",
+				"bannerImage": "https://example.com/banners/uiux.jpg",
+				"location": "New York, NY",
+				"salary": "$70,000 - $90,000",
+				"jobType": "Full-time",
+				"description": "Design intuitive learning interfaces.",
+				"requirements": [
+					"Proficiency in Figma and Adobe XD",
+					"Strong portfolio of past work",
+					"User research and wireframing skills",
+					"Responsive design knowledge",
+					"Excellent communication"
+				]
+			}
+		]
+	}
+]
