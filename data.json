@@ -1,176 +1,292 @@
 [
-	{
-		"id": "1",
-		"name": "TechNova",
-		"logo": "https://example.com/logos/technova.png",
-		"location": "San Francisco, CA",
-		"website": "https://technova.io",
-		"industry": "Software Development",
-		"jobs": [
-			{
-				"id": "job-001",
-				"title": "Frontend Developer",
-				"bannerImage": "https://example.com/banners/frontend.jpg",
-				"location": "Remote",
-				"salary": "$70,000 - $90,000",
-				"jobType": "Full-time",
-				"description": "Develop responsive web interfaces.",
-				"requirements": [
-					"Proficient in HTML, CSS, and JavaScript",
-					"Experience with React or Vue.js",
-					"Familiarity with RESTful APIs",
-					"Good understanding of responsive design",
-					"Excellent problem-solving skills"
-				]
-			},
-			{
-				"id": "job-002",
-				"title": "Backend Engineer",
-				"bannerImage": "https://example.com/banners/backend.jpg",
-				"location": "San Francisco, CA",
-				"salary": "$90,000 - $120,000",
-				"jobType": "Full-time",
-				"description": "Build and maintain backend systems.",
-				"requirements": [
-					"Strong knowledge of Node.js",
-					"Experience with MongoDB or PostgreSQL",
-					"Understanding of microservices",
-					"Familiarity with Docker and CI/CD",
-					"Good communication skills"
-				]
-			},
-			{
-				"id": "job-003",
-				"title": "QA Tester",
-				"bannerImage": "https://example.com/banners/qa.jpg",
-				"location": "Remote",
-				"salary": "$60,000 - $80,000",
-				"jobType": "Contract",
-				"description": "Test applications and report issues.",
-				"requirements": [
-					"Experience in manual and automated testing",
-					"Knowledge of Selenium or Cypress",
-					"Understanding of agile methodologies",
-					"Detail-oriented mindset",
-					"Strong analytical skills"
-				]
-			}
-		]
-	},
-	{
-		"id": "2",
-		"name": "HealthSync",
-		"logo": "https://example.com/logos/healthsync.png",
-		"location": "Austin, TX",
-		"website": "https://healthsync.com",
-		"industry": "Healthcare Tech",
-		"jobs": [
-			{
-				"id": "job-004",
-				"title": "Mobile App Developer",
-				"bannerImage": "https://example.com/banners/mobile.jpg",
-				"location": "Austin, TX",
-				"salary": "$80,000 - $100,000",
-				"jobType": "Full-time",
-				"description": "Develop health-tracking mobile apps.",
-				"requirements": [
-					"Proficient in Flutter or React Native",
-					"Experience with REST and GraphQL APIs",
-					"Knowledge of mobile UI/UX best practices",
-					"Familiar with health data standards",
-					"Team-oriented mindset"
-				]
-			},
-			{
-				"id": "job-005",
-				"title": "Data Analyst",
-				"bannerImage": "https://example.com/banners/data.jpg",
-				"location": "Remote",
-				"salary": "$65,000 - $85,000",
-				"jobType": "Full-time",
-				"description": "Analyze patient and system data.",
-				"requirements": [
-					"Strong Excel and SQL skills",
-					"Experience with Python or R",
-					"Ability to present data insights",
-					"Knowledge of healthcare compliance",
-					"Strong organizational skills"
-				]
-			},
-			{
-				"id": "job-006",
-				"title": "DevOps Engineer",
-				"bannerImage": "https://example.com/banners/devops.jpg",
-				"location": "Austin, TX",
-				"salary": "$95,000 - $130,000",
-				"jobType": "Full-time",
-				"description": "Manage cloud infrastructure and CI/CD.",
-				"requirements": [
-					"Experience with AWS and Azure",
-					"Strong scripting skills (Bash, Python)",
-					"Understanding of Kubernetes and Docker",
-					"Knowledge of monitoring tools",
-					"Proactive problem-solving"
-				]
-			}
-		]
-	},
-	{
-		"id": "3",
-		"name": "EduSpark",
-		"logo": "https://example.com/logos/eduspark.png",
-		"location": "New York, NY",
-		"website": "https://eduspark.org",
-		"industry": "E-learning",
-		"jobs": [
-			{
-				"id": "job-007",
-				"title": "Instructional Designer",
-				"bannerImage": "https://example.com/banners/instructional.jpg",
-				"location": "New York, NY",
-				"salary": "$60,000 - $75,000",
-				"jobType": "Full-time",
-				"description": "Create online course content.",
-				"requirements": [
-					"Experience with LMS platforms",
-					"Knowledge of pedagogy and curriculum design",
-					"Strong writing and editing skills",
-					"Ability to use tools like Articulate",
-					"Creative mindset"
-				]
-			},
-			{
-				"id": "job-008",
-				"title": "Full Stack Developer",
-				"bannerImage": "https://example.com/banners/fullstack.jpg",
-				"location": "Remote",
-				"salary": "$85,000 - $105,000",
-				"jobType": "Full-time",
-				"description": "Maintain and develop platform features.",
-				"requirements": [
-					"Strong knowledge of MERN stack",
-					"REST API and GraphQL experience",
-					"Cloud deployment experience",
-					"Version control with Git",
-					"Team collaboration experience"
-				]
-			},
-			{
-				"id": "job-009",
-				"title": "UI/UX Designer",
-				"bannerImage": "https://example.com/banners/uiux.jpg",
-				"location": "New York, NY",
-				"salary": "$70,000 - $90,000",
-				"jobType": "Full-time",
-				"description": "Design intuitive learning interfaces.",
-				"requirements": [
-					"Proficiency in Figma and Adobe XD",
-					"Strong portfolio of past work",
-					"User research and wireframing skills",
-					"Responsive design knowledge",
-					"Excellent communication"
-				]
-			}
-		]
-	}
+    {
+        "id": "4",
+        "name": "GreenGrid Energy",
+        "logo": "https://example.com/logos/greengrid.png",
+        "location": "Denver, CO",
+        "website": "https://greengrid.com",
+        "industry": "Renewable Energy",
+        "jobs": [
+            {
+                "id": "job-010",
+                "title": "Energy Systems Engineer",
+                "bannerImage": "https://example.com/banners/energy.jpg",
+                "location": "Denver, CO",
+                "salary": "$85,000 - $110,000",
+                "jobType": "Full-time",
+                "description": "Design and optimize renewable energy systems.",
+                "requirements": [
+                    "Degree in Electrical or Mechanical Engineering",
+                    "Experience in solar or wind systems",
+                    "Knowledge of grid infrastructure",
+                    "Strong analytical skills",
+                    "CAD and simulation tools experience"
+                ]
+            },
+            {
+                "id": "job-011",
+                "title": "Environmental Analyst",
+                "bannerImage": "https://example.com/banners/environment.jpg",
+                "location": "Remote",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "Monitor and report on environmental impact.",
+                "requirements": [
+                    "Experience in sustainability assessments",
+                    "Strong research and documentation skills",
+                    "Familiarity with EPA regulations",
+                    "Data analysis experience",
+                    "Degree in Environmental Science"
+                ]
+            },
+            {
+                "id": "job-012",
+                "title": "Software Engineer",
+                "bannerImage": "https://example.com/banners/software.jpg",
+                "location": "Denver, CO",
+                "salary": "$90,000 - $115,000",
+                "jobType": "Full-time",
+                "description": "Develop internal tools and analytics dashboards.",
+                "requirements": [
+                    "Proficiency in Python or Java",
+                    "Experience with cloud platforms",
+                    "Understanding of energy data models",
+                    "Version control with Git",
+                    "Problem-solving mindset"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Finverse",
+        "logo": "https://example.com/logos/finverse.png",
+        "location": "Chicago, IL",
+        "website": "https://finverse.com",
+        "industry": "Fintech",
+        "jobs": [
+            {
+                "id": "job-013",
+                "title": "Blockchain Developer",
+                "bannerImage": "https://example.com/banners/blockchain.jpg",
+                "location": "Remote",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Full-time",
+                "description": "Develop smart contracts and dApps.",
+                "requirements": [
+                    "Experience with Solidity or Rust",
+                    "Familiarity with Ethereum or Solana",
+                    "Understanding of cryptographic protocols",
+                    "Version control skills",
+                    "Blockchain security knowledge"
+                ]
+            },
+            {
+                "id": "job-014",
+                "title": "Product Manager",
+                "bannerImage": "https://example.com/banners/pm.jpg",
+                "location": "Chicago, IL",
+                "salary": "$95,000 - $120,000",
+                "jobType": "Full-time",
+                "description": "Lead product development and roadmap.",
+                "requirements": [
+                    "Experience in fintech or banking apps",
+                    "Agile project management skills",
+                    "Strong communication",
+                    "Customer-driven design mindset",
+                    "Data-driven decision making"
+                ]
+            },
+            {
+                "id": "job-015",
+                "title": "Customer Support Specialist",
+                "bannerImage": "https://example.com/banners/support.jpg",
+                "location": "Remote",
+                "salary": "$45,000 - $60,000",
+                "jobType": "Part-time",
+                "description": "Assist users with issues and inquiries.",
+                "requirements": [
+                    "Excellent communication skills",
+                    "Experience with support software",
+                    "Patience and empathy",
+                    "Basic knowledge of financial products",
+                    "Organized and efficient"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "TravelHive",
+        "logo": "https://example.com/logos/travelhive.png",
+        "location": "Seattle, WA",
+        "website": "https://travelhive.co",
+        "industry": "Travel & Tourism",
+        "jobs": [
+            {
+                "id": "job-016",
+                "title": "Travel Content Writer",
+                "bannerImage": "https://example.com/banners/writer.jpg",
+                "location": "Remote",
+                "salary": "$40,000 - $55,000",
+                "jobType": "Part-time",
+                "description": "Create engaging travel articles.",
+                "requirements": [
+                    "Strong writing and editing skills",
+                    "Experience in travel blogging",
+                    "SEO knowledge",
+                    "Creativity and storytelling",
+                    "Ability to meet deadlines"
+                ]
+            },
+            {
+                "id": "job-017",
+                "title": "Frontend Web Developer",
+                "bannerImage": "https://example.com/banners/webdev.jpg",
+                "location": "Seattle, WA",
+                "salary": "$75,000 - $95,000",
+                "jobType": "Full-time",
+                "description": "Improve user experience on the platform.",
+                "requirements": [
+                    "HTML, CSS, JavaScript expertise",
+                    "React or Next.js experience",
+                    "Responsive design skills",
+                    "Git and code collaboration",
+                    "Attention to detail"
+                ]
+            },
+            {
+                "id": "job-018",
+                "title": "Digital Marketing Specialist",
+                "bannerImage": "https://example.com/banners/marketing.jpg",
+                "location": "Remote",
+                "salary": "$55,000 - $75,000",
+                "jobType": "Full-time",
+                "description": "Drive growth through digital campaigns.",
+                "requirements": [
+                    "Google Ads and Meta Ads experience",
+                    "Content planning skills",
+                    "Basic graphic design knowledge",
+                    "Analytical mindset",
+                    "Social media marketing"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "MediCore Solutions",
+        "logo": "https://example.com/logos/medicore.png",
+        "location": "Boston, MA",
+        "website": "https://medicore.com",
+        "industry": "Health IT",
+        "jobs": [
+            {
+                "id": "job-019",
+                "title": "Clinical Data Manager",
+                "bannerImage": "https://example.com/banners/clinical.jpg",
+                "location": "Boston, MA",
+                "salary": "$90,000 - $115,000",
+                "jobType": "Full-time",
+                "description": "Manage patient data and reporting.",
+                "requirements": [
+                    "Experience with clinical databases",
+                    "Knowledge of HIPAA regulations",
+                    "SQL and reporting tools",
+                    "Attention to detail",
+                    "Healthcare industry experience"
+                ]
+            },
+            {
+                "id": "job-020",
+                "title": "Help Desk Technician",
+                "bannerImage": "https://example.com/banners/helpdesk.jpg",
+                "location": "Boston, MA",
+                "salary": "$45,000 - $60,000",
+                "jobType": "Full-time",
+                "description": "Provide IT support to healthcare staff.",
+                "requirements": [
+                    "Basic troubleshooting skills",
+                    "Familiarity with EHR software",
+                    "Customer service orientation",
+                    "Experience with Windows systems",
+                    "A+ or Network+ certification"
+                ]
+            },
+            {
+                "id": "job-021",
+                "title": "UI Developer",
+                "bannerImage": "https://example.com/banners/ui.jpg",
+                "location": "Remote",
+                "salary": "$85,000 - $105,000",
+                "jobType": "Full-time",
+                "description": "Design patient-facing web apps.",
+                "requirements": [
+                    "Strong HTML/CSS and JavaScript skills",
+                    "Experience with accessibility standards",
+                    "React or Angular knowledge",
+                    "Cross-browser compatibility",
+                    "Portfolio of web designs"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "AutoBotix",
+        "logo": "https://example.com/logos/autobotix.png",
+        "location": "Detroit, MI",
+        "website": "https://autobotix.ai",
+        "industry": "Automotive AI",
+        "jobs": [
+            {
+                "id": "job-022",
+                "title": "AI Research Scientist",
+                "bannerImage": "https://example.com/banners/ai.jpg",
+                "location": "Detroit, MI",
+                "salary": "$120,000 - $150,000",
+                "jobType": "Full-time",
+                "description": "Conduct research in autonomous systems.",
+                "requirements": [
+                    "PhD or MS in AI/ML or Robotics",
+                    "Strong Python and TensorFlow skills",
+                    "Experience with computer vision",
+                    "Publications in relevant journals",
+                    "Innovation-driven mindset"
+                ]
+            },
+            {
+                "id": "job-023",
+                "title": "Embedded Systems Engineer",
+                "bannerImage": "https://example.com/banners/embedded.jpg",
+                "location": "Detroit, MI",
+                "salary": "$95,000 - $125,000",
+                "jobType": "Full-time",
+                "description": "Develop embedded software for smart vehicles.",
+                "requirements": [
+                    "C/C++ and RTOS experience",
+                    "Familiarity with CAN bus systems",
+                    "Hardware debugging skills",
+                    "Understanding of real-time constraints",
+                    "Bachelor’s in EE or CE"
+                ]
+            },
+            {
+                "id": "job-024",
+                "title": "Simulation Engineer",
+                "bannerImage": "https://example.com/banners/simulation.jpg",
+                "location": "Remote",
+                "salary": "$85,000 - $110,000",
+                "jobType": "Contract",
+                "description": "Run and validate driving simulations.",
+                "requirements": [
+                    "Knowledge of CARLA or Gazebo",
+                    "Strong programming in Python/C++",
+                    "Experience with 3D engines",
+                    "Debugging and testing skills",
+                    "Simulation scenario creation"
+                ]
+            }
+        ]
+    }
 ]
